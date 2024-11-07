@@ -37,7 +37,7 @@ Welcome to our Online Book Website! This platform provides a seamless experience
 Ensure you have a local web server like XAMPP or WAMP installed.
 
 ### Installation
-1. Clone this repository: `git clone https://github.com/yourusername/online-book-website.git`
+1. Clone this repository: `git clone https://github.com/yourusername/E-book_Website.git`
 2. Set up the MySQL database and import the provided SQL file.
 3. Configure the PHP files with your database credentials.
 4. Open the website in a local server environment (e.g., `localhost/E-book_Website`).
